@@ -123,6 +123,3 @@ SERVER_URL = "https://<your-ngrok-or-server-url>"
 ## 📄 License
 
 This project is for educational use only.
-
-```
-
